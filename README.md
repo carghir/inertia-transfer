@@ -1,6 +1,6 @@
 <div align="center">
 
-##  Transferring the driveshaft inertia to the grid via the DC-link in MV drive systems *(Supplementary material)* 
+##  Transferring the driveshaft inertia to the grid via the DC-link in MV drive systems (*Supplementary material*) 
 Catalin Arghir, Pieder Joerg, Silvia Mastellone
 </div>
 
