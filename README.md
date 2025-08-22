@@ -1,10 +1,10 @@
 <div align="center">
 
 # Transferring the driveshaft inertia to the grid via the DC-link in MV drive systems -- *Addendum*
-### Catalin Arghir, Pieder Joerg, Silvia Mastellone
+Catalin Arghir, Pieder Joerg, Silvia Mastellone
 </div>
 
----
+<br>
 
 This archive contains the complete experimental results of the article [[1](#references)] in preparation for submission to IEEE Transactions on Control Systems Technology.
 
